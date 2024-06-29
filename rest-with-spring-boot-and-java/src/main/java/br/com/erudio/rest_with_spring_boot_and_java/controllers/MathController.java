@@ -1,5 +1,7 @@
-package br.com.erudio.rest_with_spring_boot_and_java;
+package br.com.erudio.rest_with_spring_boot_and_java.controllers;
 
+import br.com.erudio.rest_with_spring_boot_and_java.NumberConverter;
+import br.com.erudio.rest_with_spring_boot_and_java.SimpleMath;
 import br.com.exceptions.UnsuportedMathOperationException;
 import org.springframework.web.bind.annotation.*;
 

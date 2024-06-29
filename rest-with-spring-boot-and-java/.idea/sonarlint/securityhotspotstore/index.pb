@@ -32,3 +32,7 @@ Osrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/numberConverter.java
 Osrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/NumberConverter.java,4/7/4704a1d05a6dc1fa7e570a67df9918e6c2c5844c
 z
 Jsrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/SimpleMath.java,e/7/e702b81f9c7fe0754d0d9824218fec77365ceb57
+Š
+Zsrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/controllers/MathController.java,3/8/38adc62001e7d7ffaeeb7e02a82243fa3e120ae6
+Ž
+^src/main/java/br/com/erudio/rest_with_spring_boot_and_java/controllers/GreetingController.java,3/d/3dd7bb350505b3c5f37b79c4bcd497fe05c9377a
