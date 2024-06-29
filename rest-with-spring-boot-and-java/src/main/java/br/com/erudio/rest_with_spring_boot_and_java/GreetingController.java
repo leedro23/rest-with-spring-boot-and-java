@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.concurrent.atomic.AtomicLong;
 
 @RestController
+@RequestMapping("/firstStep")
 public class GreetingController {
 
     private static final String template = "Hello, %s!";

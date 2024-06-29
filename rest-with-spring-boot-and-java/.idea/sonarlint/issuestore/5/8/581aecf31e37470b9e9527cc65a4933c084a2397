@@ -1,0 +1,12 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ίνό©8¤Έ£†2
+w
+java:S1144"4Remove this unused private "convertToDouble" method.(Κ„Β’8γή¬£†2J$85903ebd-f163-4ab6-8939-49bda42e56aa
+‹
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ιµχΛ8δή¬£†2J$eaed74f8-5c15-401d-b664-1722657cffd3
+‹
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ιµχΛ8ζή¬£†2J$9d005ebb-8b90-4d11-aca7-db651475fe1c
+
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(δ£Τ8θή¬£†2J$169a74c1-32ed-4035-beed-c1f7f452cd0b
+
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(δ£Τ8θή¬£†2J$ea877e9c-2376-444e-90d0-8d00f124c670

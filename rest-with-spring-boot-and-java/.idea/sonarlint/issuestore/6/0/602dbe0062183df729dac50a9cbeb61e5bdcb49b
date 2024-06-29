@@ -1,0 +1,11 @@
+
+Ž	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ðõÛ8¤ž¸£†2J$8e6f862e-4178-4bdb-b61d-7dd1a346de7f
+‹
+java:S5361
+"HReplace this call to "replaceAll()" by a call to the "replace()" method.(éµ÷Ë8äÞ¬£†2J$f7ffcb7e-2865-4e1b-8140-cf56979361aa
+‹
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(éµ÷Ë8æÞ¬£†2J$1eddc665-e2a9-4d6f-8dcf-8fe1f8ec1150
+
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ä£Ô8èÞ¬£†2J$d0df0e59-b8f7-4f72-b25f-17ab73cd08ca
+
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ä£Ô8èÞ¬£†2J$a7bc2908-8e0f-49e2-aa78-7b3d966d7a0b

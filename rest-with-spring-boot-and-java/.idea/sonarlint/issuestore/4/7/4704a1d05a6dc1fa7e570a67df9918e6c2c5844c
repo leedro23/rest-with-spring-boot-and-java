@@ -1,0 +1,12 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ã‚Î±ÿÿÿÿÿ8‰õÕ£†2
+‹
+java:S5361
+"HReplace this call to "replaceAll()" by a call to the "replace()" method.(éµ÷Ë8äÞ¬£†2J$32f8376b-723a-4bb7-9b51-a90c6f789847
+‹
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(éµ÷Ë8æÞ¬£†2J$f7ab8b49-64c1-4339-bd40-a0df0884036d
+
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ä£Ô8èÞ¬£†2J$238acd5b-8be2-4d8a-afe6-20a34ebfedf7
+
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ä£Ô8èÞ¬£†2J$e805cf9f-32af-45f6-be90-c069054cdb47

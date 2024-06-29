@@ -14,3 +14,21 @@ isrc/test/java/br/com/erudio/rest_with_spring_boot_and_java/RestWithSpringBootAn
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+~
+Nsrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/MathController.java,f/6/f633ad73c0ed89ba49eb088f5f13bd2323a80994
+g
+7src/main/java/br/com/exceptions/ExceptionsResponse.java,7/7/778b7360943f4c71054494e980c4578e07eeff1c
+u
+Esrc/main/java/br/com/exceptions/UnsuportedMathOperationException.java,4/8/48e8b029d918690ad2aa169be31c380b5f4fc45a
+†
+Vsrc/main/java/br/com/exceptions/handler/CustomizedResponseEntityExcepetionHandler.java,2/3/23de8fd4da59796e50b1042ec28727eefadccd7e
+}
+Msrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/numberHandler.java,5/8/581aecf31e37470b9e9527cc65a4933c084a2397
+}
+Msrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/NumberHandler.java,0/4/040794e3e234eda1af720d7877acf00facdccf8c
+
+Osrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/numberConverter.java,6/0/602dbe0062183df729dac50a9cbeb61e5bdcb49b
+
+Osrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/NumberConverter.java,4/7/4704a1d05a6dc1fa7e570a67df9918e6c2c5844c
+z
+Jsrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/SimpleMath.java,e/7/e702b81f9c7fe0754d0d9824218fec77365ceb57
