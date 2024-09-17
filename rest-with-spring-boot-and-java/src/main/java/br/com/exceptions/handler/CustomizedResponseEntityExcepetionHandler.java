@@ -27,12 +27,12 @@ public class CustomizedResponseEntityExcepetionHandler extends ResponseEntityExc
     }
 
     @ExceptionHandler(UnsuportedMathOperationException.class)
-    public final ResponseEntity<ExceptionsResponse> handleBadRequestExceptions(Exception ex, WebRequest request) {
+    public final ResponseEntity<ExceptionsResponse> handleNotFoundExceptions(Exception ex, WebRequest request) {
 
         ExceptionsResponse exceptionResponse = new ExceptionsResponse(
                 new Date(),
                 ex.getMessage(),
                 request.getDescription(false));
-        return new ResponseEntity<>(exceptionResponse, HttpStatus.BAD_REQUEST);
+        return new ResponseEntity<>(exceptionResponse, HttpStatus.NOT_FOUND);
     }
 }

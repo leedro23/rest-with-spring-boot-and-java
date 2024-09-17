@@ -21,6 +21,7 @@ public class MathController {
         return SimpleMath.sum(NumberConverter.convertToDouble(n1), NumberConverter.convertToDouble(n2));
 
     }
+
     @GetMapping("/subtract/{n1}/{n2}")
     public Double subtract(@PathVariable(value = "n1") String n1,
                       @PathVariable(value = "n2") String n2) throws Exception {

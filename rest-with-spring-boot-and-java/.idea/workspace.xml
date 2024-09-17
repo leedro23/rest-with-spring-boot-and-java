@@ -5,24 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3398ad66-7c26-4b2f-af0e-a355f989e017" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/controllers/PersonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/services/PersonServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/040794e3e234eda1af720d7877acf00facdccf8c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38adc62001e7d7ffaeeb7e02a82243fa3e120ae6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38adc62001e7d7ffaeeb7e02a82243fa3e120ae6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dd7bb350505b3c5f37b79c4bcd497fe05c9377a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dd7bb350505b3c5f37b79c4bcd497fe05c9377a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/486bb8dcffaa68bcad82efe5cb338791afe022c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/581aecf31e37470b9e9527cc65a4933c084a2397" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/602dbe0062183df729dac50a9cbeb61e5bdcb49b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f633ad73c0ed89ba49eb088f5f13bd2323a80994" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/repositories/PersonRepositorie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/exceptions/ResourceNotFoundExcepction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/287b854dccc74666b0fe7442255761399cb362cd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/287b854dccc74666b0fe7442255761399cb362cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/294ec772bad57725d95d578b4a6acaebf07e29f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30d8f06aae7f61e43a000ae86ec5054226a1cfb5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30d8f06aae7f61e43a000ae86ec5054226a1cfb5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f04da554ee56ed7fee00213019f454f3ca61768" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f04da554ee56ed7fee00213019f454f3ca61768" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93cd71a8419bc920cc093b8d1cefe9e18f3a7805" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9a74e39772a5ada8954c2a73a4a2246193b77bb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/4/040794e3e234eda1af720d7877acf00facdccf8c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/8/486bb8dcffaa68bcad82efe5cb338791afe022c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/8/581aecf31e37470b9e9527cc65a4933c084a2397" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/0/602dbe0062183df729dac50a9cbeb61e5bdcb49b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/6/f633ad73c0ed89ba49eb088f5f13bd2323a80994" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/9/294ec772bad57725d95d578b4a6acaebf07e29f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/3/93cd71a8419bc920cc093b8d1cefe9e18f3a7805" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/9/b9a74e39772a5ada8954c2a73a4a2246193b77bb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/controllers/MathController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/controllers/MathController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/controllers/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/controllers/PersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/services/PersonServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/services/PersonServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/exceptions/handler/CustomizedResponseEntityExcepetionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/exceptions/handler/CustomizedResponseEntityExcepetionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +37,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -56,7 +62,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Project_spring.executor": "Run",
+    "Application.Project_spring.executor": "Debug",
     "Application.Unnamed.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -101,16 +107,5 @@
     <option featureType="dependencySupport" implementationName="executable:kubectl" />
     <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
     <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java/services/PersonServices.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

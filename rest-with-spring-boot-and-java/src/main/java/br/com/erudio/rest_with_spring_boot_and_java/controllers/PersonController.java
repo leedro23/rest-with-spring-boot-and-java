@@ -30,12 +30,12 @@ public class PersonController {
     }
 
     @DeleteMapping(path = "/{id}", produces = MediaType.APPLICATION_JSON_VALUE)
-    public void delete(@PathVariable(value = "id") String id) throws Exception {
+    public void delete(@PathVariable(value = "id") Long id) throws Exception {
         personServices.delete(id);
     }
 
     @GetMapping(path = "/{id}", produces = MediaType.APPLICATION_JSON_VALUE)
-    public Person findByID(@PathVariable(value = "id") String id) throws Exception {
+    public Person findByID(@PathVariable(value = "id") Long id) throws Exception {
         return personServices.findById(id);
     }
 

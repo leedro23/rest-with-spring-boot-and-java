@@ -28,13 +28,11 @@ Zsrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/controllers/MathCont
 ^src/main/java/br/com/erudio/rest_with_spring_boot_and_java/controllers/GreetingController.java,3/d/3dd7bb350505b3c5f37b79c4bcd497fe05c9377a
 Œ
 \src/main/java/br/com/erudio/rest_with_spring_boot_and_java/controllers/PersonController.java,3/0/30d8f06aae7f61e43a000ae86ec5054226a1cfb5
-u
-Esrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/model.java,9/3/93cd71a8419bc920cc093b8d1cefe9e18f3a7805
-}
-Msrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/model/Persion.java,2/9/294ec772bad57725d95d578b4a6acaebf07e29f2
 |
 Lsrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/model/Person.java,2/8/287b854dccc74666b0fe7442255761399cb362cd
-ˆ
-Xsrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/services/PersionServices.java,b/9/b9a74e39772a5ada8954c2a73a4a2246193b77bb
 ‡
 Wsrc/main/java/br/com/erudio/rest_with_spring_boot_and_java/services/PersonServices.java,4/f/4f04da554ee56ed7fee00213019f454f3ca61768
+Ž
+^src/main/java/br/com/erudio/rest_with_spring_boot_and_java/repositories/PersonRepositorie.java,1/a/1a5c46bba42f6d440746053fe0435b9082f7267f
+o
+?src/main/java/br/com/exceptions/ResourceNotFoundExcepction.java,7/d/7da7fb77542d598420ceb14e9bf5c65c9798dd03
